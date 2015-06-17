@@ -1,3 +1,5 @@
+This app built on [**php-proxy library**](https://github.com/Athlon1600/php-proxy) and [**wkhtmltopdf**](http://wkhtmltopdf.org/).
+
 # php-proxy-app
 Web Proxy Application built on [**php-proxy library**](https://github.com/Athlon1600/php-proxy) ready to be installed on your server
 
